@@ -1,0 +1,15 @@
+Variable: Son contenedores para guardar datos de diferentes tipos.
+Existen diferentes formas de declarar una variable como lo son: 
+var
+let
+const
+
+JavaScript strings: se usan para manipular y almacenar texto. Se debe colocar entre comilla " ". Por ejemplo "Hola"
+
+A JavaScript function es un bloque de codigo diseñado para cumplir una tarea. 
+REturn:  realiza la operacion  que se le asigne y detiene la function.
+
+ if statement to specify se usa para ejecutar un bloque de codigo si la condicion es verdadera.
+
+  Java  boolean: es un tipo de dato que puede tomar valor verdadero y (false)
+
