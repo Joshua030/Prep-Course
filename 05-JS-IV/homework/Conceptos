@@ -1,0 +1,60 @@
+Objects 
+
+// JavaScript variables can also contain many values.
+
+// Objects are variables too. But objects can contain many values.
+
+// Object values are written as name : value pairs (name and value separated by a colon).
+
+example
+
+// let person = {firstName:"John", lastName:"Doe", age:50, eyeColor:"blue"};
+
+properties
+
+// Properties are the values associated with a JavaScript object.
+
+// A JavaScript object is a collection of unordered properties.
+
+// Properties can usually be changed, added, and deleted, but some are read only.
+
+example
+
+// objectName.property      // person.age
+
+Methods
+
+// JavaScript methods are actions that can be performed on objects.
+
+// A JavaScript method is a property containing a function definition.
+
+// Methods are functions stored as object properties.
+
+example
+
+// objectName.methodName()
+
+Bucle `for…in`
+
+// statement iterates over all enumerable properties of an object that are keyed by strings (ignoring ones keyed by Symbols), including inherited enumerable properties.
+
+example
+
+// for (variable in object) {}
+   
+Property accessors
+
+// Property accessors provide access to an object's properties by using the dot notation or the bracket notation.
+
+Dot notation
+
+// In the object.property syntax, the property must be a valid JavaScript identifier. (In the ECMAScript standard, the names of properties are technically "IdentifierNames", not "Identifiers", so reserved words can be used but are not recommended). For example, object.$1 is valid, while object.1 is not.
+// object.property_name
+
+Bracket notation
+
+// In the object[property_name] syntax, the property_name is just a string or Symbol. So, it can be any string, including '1foo', '!bar!', or even ' ' (a space).
+
+example
+
+// object[property_name]
