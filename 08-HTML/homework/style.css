@@ -1,0 +1,108 @@
+img {
+    width: 400px;
+    height: 400px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+  }
+  h1 {
+    left: 400px;
+    font-family: "Georgia", serif;
+    font-size: 40px;
+    margin: 70px;
+    display: flex;
+    justify-content: center;
+  }
+  h2 {
+    
+    font-family: "Georgia", serif;
+    font-size: 40px;
+    width: 1200px;
+    height: 55px;
+    border: 2px solid gray;
+    background-color: lightgray;
+    text-align: center;
+    margin: 25px 60px;
+  }
+  .divClass {
+    position: absolute;
+    left: 100px;
+    width: 500px;
+    padding: 0px;
+    font-size: 25px;
+  }
+  
+  .div2Class {
+    position: absolute;
+    right: 100px;
+    width: 400px;
+    padding: 0px;
+    font-size: 25px;
+  }
+  
+  .Head1sec {
+     position: absolute;
+      top: 1000px;
+  }
+  .div3Class {
+    position: absolute;
+    left: 100px;
+    top: 1100px;
+    width: 1200px;
+    padding: 0px;
+    font-size: 25px;
+  }
+  
+  .Head2sec {
+     position: absolute;
+      top: 2200px;
+  }
+  
+  .div4Class {
+    position: absolute;
+    left: 100px;
+    top: 2300px;
+    width: 1200px;
+    padding: 0px;
+    font-size: 25px;
+  }
+  
+  p {
+    font-size: 22px
+  }
+  
+  .Head3sec {
+     position: absolute;
+      top: 2800px;
+  }
+  .div5Class {
+    position: absolute;
+    left: 270px;
+    top: 2900px;
+    width: 1200px;
+    padding: 0px;
+    font-size: 25px;
+  }
+  .div6Class {
+    position: absolute;
+    right: 100px;
+    top: 2900px;
+    width: 400px;
+    padding: 0px;
+    font-size: 25px;
+  }
+  .Head4sec {
+     position: absolute;
+      top: 3200px;
+  }
+  
+  .div7Class{
+    position: absolute;
+    left: 50px;
+  }
+  
+  .Head5sec {
+     position: absolute;
+      top: 3400px;
+  }
