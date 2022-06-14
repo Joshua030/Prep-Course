@@ -32,7 +32,7 @@ function sumarArray(numeros, cb) {
   // No es necesario devolver nada
   //Tu código:
   var nuevoArray = 0;
-  for(var i = 0; i < numeros.length; i++) {
+  for(var i = 0; i < numeros.length; i++) { 
     nuevoArray += numeros[i] ;
   }
 cb(nuevoArray) ;
